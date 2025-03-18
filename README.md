@@ -1,6 +1,6 @@
 ## Assalam Alaikum 👋
 I am Muhammad Fahad
-fahadkhan
+
 <!--
 **mfahadkhanofficial/mfahadkhanofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
